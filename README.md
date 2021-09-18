@@ -42,6 +42,9 @@ python3 -m venv ambiente_virtual
 > Iniciar a aplicação com o nome de app
 
     python manage.py startapp app
+
+
+# VAI ATÉ A AQUI AS CONFIGURAÇÕES INICIAIS. FAÇA O PULL REQUEST AQUI
     
 > Crie um repositório no GITHUB
 
